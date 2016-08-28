@@ -28,10 +28,15 @@ defaults:
 title: "ZeviChen"
 email: "sszevichen@gmail.com"
 description: "Developer"
-github_username:  "zevichen"
+github_username: zevichen
+twitter_username: zevichen
+
+
 #swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
 #disqus_shortname: "rainyalley"
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 
 
@@ -41,5 +46,7 @@ github_username:  "zevichen"
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
+
+theme: minima
 
 port: 4321
