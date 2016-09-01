@@ -75,7 +75,7 @@ ul.details li{
 .header-banner-info h3{
 	font-size:3em;
 	font-weight:300;
-	color:#FFFFFF;
+	color:#66cccc;
 	margin: 1em 0 0.3em 0;
 }
 .header-banner-info h1{
@@ -85,11 +85,11 @@ ul.details li{
 }
 .header-banner-info span{
 	font-weight:700;
-	color:#FFFFFF;
+	color:#66cccc;
 }
 .header-banner-info p{
 	font-weight:300;
-	color:#FFFFFF;
+	color:#66CCCC;
 	font-size:1.5em;
 	margin: 1.2em 0 1.6em 0;
 }
@@ -174,7 +174,7 @@ i.behance:hover{
 	bottom: 23%;
 }
 .about-section{
-	background:#524664;
+	background:#023548;
 	padding:4em 0;
 }
 .about-section-head{
@@ -644,8 +644,13 @@ div#portfoliolist {
 	display: -webkit-inline-box;
 }
 .footer{
-	padding:2em 0;
-	background:#3e364d;
+	
+	background: url("../images/footer-msg.jpg") no-repeat top;
+	min-height: 76px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 }
 .copy-rights p{
 	color:#AAAAAA;
@@ -1113,16 +1118,16 @@ i.phone{
   margin-top: 13.7em;
 }
 .nbs-flexisel-nav-left {
-  	left: 735px;
+  	left: 812px;
   	background: url(../images/img-sprite.png) no-repeat -185px -79px;
 }
 .nbs-flexisel-nav-right {
-  	right:46.5%;
+  	right:42.5%;
  	background: url(../images/img-sprite.png) no-repeat -235px -79px;
 }
 .twitter-section{
-	background: url("../images/header-banner.jpg") no-repeat;
-	min-height: 425px;
+	background: url("../images/footer-banner.jpg") no-repeat;
+	min-height: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2554,4 +2559,8 @@ i.in{
 	.wmuSliderNext{
 		background-position: -191px -4px;
 	}
+}
+.myName{
+	
+	
 }
