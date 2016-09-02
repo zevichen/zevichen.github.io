@@ -644,7 +644,7 @@ div#portfoliolist {
 	display: -webkit-inline-box;
 }
 .footer{
-	
+	padding-top:2em;
 	background: url("../images/footer-msg.jpg") no-repeat top;
 	min-height: 76px;
 	background-size: cover;
